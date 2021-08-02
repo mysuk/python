@@ -1,4 +1,3 @@
-from re import X
 import pyautogui as m
 import keyboard
 import pygame
